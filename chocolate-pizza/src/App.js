@@ -16,7 +16,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="webpage">
-        <Header logo={myLogo}/>
+        <Header id="headerTag" logo={myLogo}/>
         <Body pizza={chocoPizza} notePad={stickyNote} print={printButton}/>
         <Footer profile={profilePic} smallLogo={smallLogo} />
       </div>

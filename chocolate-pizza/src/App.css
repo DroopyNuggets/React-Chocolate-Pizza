@@ -37,8 +37,20 @@
   }
 } */
 
-#headerTag {
+.webpage {
+  text-align: center;
+}
 
+.titleTag {
+  
+}
+
+#headerTag {
+  
+}
+
+#titleTag {
+  
 }
 
 #bodyTag {
@@ -46,5 +58,5 @@
 }
 
 #footerTag {
-  
+
 }
